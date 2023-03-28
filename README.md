@@ -2,7 +2,10 @@
  Maze Solver is a Java application with a graphical user interface (GUI) that can solve a maze using the Depth-First Search (DFS) algorithm. The application has been developed using Java and Java Swing for the GUI.
 
 The goal of this project is to find the path from the start point to the end point in a maze without passing through any blockages. The user can provide the input maze using a 2D grid of integers, where 1 represents a blockage, 0 represents an open path, and 9 represents the end point. The application will display the solved maze on the GUI.
-
+<p float="left">
+  <img src="/SS/maze.png" width="600" />
+  
+</p>
 Requirements:
 To run this application, you need to have Java 8 or later installed on your computer.
 
