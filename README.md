@@ -28,5 +28,5 @@ To start the application, run the MazeSolver.java file. The GUI will be displaye
 Algorithm
 The Maze Solver application uses the DFS algorithm to solve the maze. The DFS algorithm starts from the starting point and explores each path until it reaches the end point. If it encounters a dead end or a blockage, it backtracks to the previous point and continues exploring other paths.
 
-Credits
+Credits:
 This application has been developed by Basit Manzoor. If you have any questions or suggestions, please feel free to contact me.
